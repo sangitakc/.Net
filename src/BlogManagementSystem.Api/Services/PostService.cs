@@ -22,33 +22,67 @@ namespace BlogManagementSystem.Api.Services
 
         public async Task<BaseResponse<IEnumerable<PostDto>>> GetAllPostsAsync()
         {
-            _logger.LogInformation("Fetching all posts");
-            var posts = await _repo.GetAllAsync();
+            var posts = await _repo.GetAllAsync(); 
+
+            var dtos = posts.Select(post => new PostDto
+            {
+                Id = post.Id,
+                Title = post.Title,
+                Content = post.Content,
+                AuthorId = post.AuthorId,
+                CreatedAt = post.CreatedAt,
+                VoteCount = post.Votes.Count(v => v.IsUpvote),
+                CommentCount = post.Comments.Count,
+                Comments = post.Comments
+                      .Select(c => new CommentDetailDto
+                      {
+                          Id = c.Id,
+                          UserId = c.UserId,
+                          Text= c.Text,
+                          CreatedAt = c.CreatedAt
+                      })
+                      .ToList()
+            }).ToList();
+
             return new BaseResponse<IEnumerable<PostDto>>
             {
                 Success = true,
-                Message = "Posts retrieved successfully.",
-                Data = posts.Select(Map).ToList()
+                Data = dtos
             };
         }
+
 
         public async Task<BaseResponse<PostDto>> GetPostByIdAsync(int postId)
         {
             _logger.LogInformation("Fetching post {PostId}", postId);
-            var p = await _repo.GetByIdAsync(postId);
-            if (p == null)
-            {
-                _logger.LogWarning("Post {PostId} not found", postId);
+            var post = await _repo.GetByIdAsync(postId); 
+            if (post == null)
                 return new BaseResponse<PostDto> { Success = false, Message = "Post not found." };
-            }
 
-            return new BaseResponse<PostDto>
+            var dto = new PostDto
             {
-                Success = true,
-                Message = "Post retrieved successfully.",
-                Data = Map(p)
+                Id = post.Id,
+                Title = post.Title,
+                Content = post.Content,
+                AuthorId = post.AuthorId,
+                CreatedAt = post.CreatedAt,
+                VoteCount = post.Votes.Count(v => v.IsUpvote),
+                CommentCount = post.Comments.Count,
+                Comments = post.Comments
+                      .Select(c => new CommentDetailDto
+                      {
+                          Id = c.Id,
+                          UserId = c.UserId,
+                          Text = c.Text,
+                          CreatedAt = c.CreatedAt
+                      })
+                      .ToList()
             };
+
+
+            return new BaseResponse<PostDto> { Success = true, Data = dto };
         }
+
 
         public async Task<BaseResponse<PostDto>> CreatePostAsync(string userId, CreatePostDto dto)
         {

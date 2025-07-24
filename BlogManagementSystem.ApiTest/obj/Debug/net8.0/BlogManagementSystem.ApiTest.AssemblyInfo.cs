@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlogManagementSystem.ApiTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f973ebe064f720007fe8739388e9f903e8eda8e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlogManagementSystem.ApiTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlogManagementSystem.ApiTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -292,3 +292,4 @@ C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\BlogManagementSystem.ApiTest\bin
 C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\BlogManagementSystem.ApiTest\obj\Debug\net8.0\BlogMana.30884302.Up2Date
 C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\BlogManagementSystem.ApiTest\obj\Debug\net8.0\BlogManagementSystem.ApiTest.genruntimeconfig.cache
 C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\BlogManagementSystem.ApiTest\obj\Debug\net8.0\ref\BlogManagementSystem.ApiTest.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\BlogManagementSystem.ApiTest\obj\Debug\net8.0\BlogManagementSystem.ApiTest.sourcelink.json

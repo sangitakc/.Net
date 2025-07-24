@@ -607,3 +607,4 @@ C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj
 C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
 C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
 C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.sourcelink.json
