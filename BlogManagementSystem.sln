@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.0.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagementSystem.Api", "src\BlogManagementSystem.Api\BlogManagementSystem.Api.csproj", "{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagementSystem.ApiTest", "BlogManagementSystem.ApiTest\BlogManagementSystem.ApiTest.csproj", "{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63CFBEB7-9B65-4558-8618-76FB79440293}
+	EndGlobalSection
+EndGlobal

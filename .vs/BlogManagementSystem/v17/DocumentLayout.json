@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\blogmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\blogmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\blogmanagementsystem.apitest\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|solutionrelative:blogmanagementsystem.apitest\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\blogmanagementsystem.apitest\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|solutionrelative:blogmanagementsystem.apitest\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\blogmanagementsystem.apitest\\postservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|solutionrelative:blogmanagementsystem.apitest\\postservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\blogmanagementsystem.apitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|solutionrelative:blogmanagementsystem.apitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\blogmanagementsystem.apitest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|solutionrelative:blogmanagementsystem.apitest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\services\\authservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\services\\authservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\blogmanagementsystem.apitest\\blogmanagementsystem.apitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2E7645F-9C65-4D85-9E9D-A4D8D0975BCE}|BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj|solutionrelative:blogmanagementsystem.apitest\\blogmanagementsystem.apitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\blogmanagementsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\blogmanagementsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\services\\adminservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\services\\adminservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\services\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\services\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\editpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\editpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\commentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\commentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|c:\\users\\sangitak\\downloads\\bms final\\bmsdotnet\\src\\blogmanagementsystem.api\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE}|src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj|solutionrelative:src\\blogmanagementsystem.api\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMS FINAL\\BlogManagementSystem.Api.Tests\\PostServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMS FINAL\\BlogManagementSystem.Api.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem.ApiTest\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\UserServiceTests.cs",
+              "RelativeToolTip": "BlogManagementSystem.ApiTest\\UserServiceTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:11:50.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\AdminServiceTests.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem.ApiTest\\AdminServiceTests.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\AdminServiceTests.cs",
+              "RelativeToolTip": "BlogManagementSystem.ApiTest\\AdminServiceTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:10:20.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem.ApiTest\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\AuthServiceTests.cs",
+              "RelativeToolTip": "BlogManagementSystem.ApiTest\\AuthServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:01:32.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\PostServiceTests.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem.ApiTest\\PostServiceTests.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\PostServiceTests.cs",
+              "RelativeToolTip": "BlogManagementSystem.ApiTest\\PostServiceTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:47:15.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BlogManagementSystem.ApiTest.csproj",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj",
+              "RelativeDocumentMoniker": "BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj",
+              "RelativeToolTip": "BlogManagementSystem.ApiTest\\BlogManagementSystem.ApiTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T07:25:49.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem.ApiTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\BlogManagementSystem.ApiTest\\UnitTest1.cs",
+              "RelativeToolTip": "BlogManagementSystem.ApiTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:22:49.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlogManagementSystem.Api",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T07:17:56.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogManagementSystem.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\BlogManagementSystem.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T06:28:13.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PostServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMS FINAL\\BlogManagementSystem.Api.Tests\\PostServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\BMS FINAL\\BlogManagementSystem.Api.Tests\\PostServiceTests.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMS FINAL\\BlogManagementSystem.Api.Tests\\PostServiceTests.cs",
+              "RelativeToolTip": "..\\BMS FINAL\\BlogManagementSystem.Api.Tests\\PostServiceTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:33:35.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMS FINAL\\BlogManagementSystem.Api.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\BMS FINAL\\BlogManagementSystem.Api.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMS FINAL\\BlogManagementSystem.Api.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\BMS FINAL\\BlogManagementSystem.Api.Tests\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:30:18.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Program.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:15:44.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:41:17.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService .cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\AuthService .cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Services\\AuthService .cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\AuthService .cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Services\\AuthService .cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwE4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:33:26.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminService .cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\AdminService .cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Services\\AdminService .cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\AdminService .cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Services\\AdminService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:48:13.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:15:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\PostService.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Services\\PostService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:09:47.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\appsettings.json",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T19:16:25.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserService .cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\UserService .cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Services\\UserService .cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\UserService .cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Services\\UserService .cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:10:31.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wDcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:10:25.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\IPostService.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Services\\IPostService.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\IPostService.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Services\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:09:08.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Middleware\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Middleware\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:56:05.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\IAuthService.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:58:22.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\EditUserDto.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\EditUserDto.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\EditUserDto.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\EditUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:03:05.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Data\\SeedData.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:30:35.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:04:45.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Services\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\IAdminService.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Services\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:47:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:10:04.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:09:04.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Repositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Repositories\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Repositories\\IPostRepository.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Repositories\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:15:49.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\Services\\IUserService.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:06:30.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\EditPostDto.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\EditPostDto.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\EditPostDto.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\EditPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:04:30.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\BaseResponse.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:23:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:05:36.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\CreatePostDto.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\CreatePostDto.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\CreatePostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:24:57.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\CommentDto.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\CommentDto.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:22:09.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CommentDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\CommentDetailDto.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\CommentDetailDto.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\CommentDetailDto.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\CommentDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:22:41.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\PostDto.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:19:56.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "src\\BlogManagementSystem.Api\\DTOs\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\sangitak\\Downloads\\BMS FINAL\\BMSDotNet\\src\\BlogManagementSystem.Api\\DTOs\\AuthorDto.cs",
+              "RelativeToolTip": "src\\BlogManagementSystem.Api\\DTOs\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:06:52.257Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

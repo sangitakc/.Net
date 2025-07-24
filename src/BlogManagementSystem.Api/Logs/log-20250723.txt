@@ -1,0 +1,20 @@
+2025-07-23 12:54:44.863 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 28.5549 ms
+2025-07-23 12:56:57.874 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 401 in 1893.2729 ms
+2025-07-23 13:17:19.968 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 43.1716 ms
+2025-07-23 21:05:46.338 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 33.7893 ms
+2025-07-23 21:14:49.038 +05:45 [INF] HTTP DELETE /api/Admin/delete_any_post/1 responded 401 in 3193.0723 ms
+2025-07-23 21:15:07.279 +05:45 [INF] HTTP GET /api/Admin/view_author_information/1 responded 401 in 6.4437 ms
+2025-07-23 21:17:10.032 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 491.5896 ms
+2025-07-23 21:18:01.873 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 144.1987 ms
+2025-07-23 21:18:49.981 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 126.8927 ms
+2025-07-23 21:19:26.568 +05:45 [INF] Creating post for UserId=37aadb16-68c0-4f79-a4a0-3c5c2b9b23ce
+2025-07-23 21:19:26.637 +05:45 [INF] Created post 1
+2025-07-23 21:19:26.649 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 176.6393 ms
+2025-07-23 21:20:25.928 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 101.2453 ms
+2025-07-23 21:20:46.441 +05:45 [INF] Admin retrieving all authors
+2025-07-23 21:20:46.472 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 200 in 54.4001 ms
+2025-07-23 21:21:16.001 +05:45 [INF] Admin viewing info for author 37aadb16-68c0-4f79-a4a0-3c5c2b9b23ce
+2025-07-23 21:21:16.011 +05:45 [INF] HTTP GET /api/Admin/view_author_information/37aadb16-68c0-4f79-a4a0-3c5c2b9b23ce responded 200 in 39.9224 ms
+2025-07-23 21:22:26.092 +05:45 [INF] UserId=9c082ca5-69d0-4a36-8f31-dc27a904b126 commenting on PostId=1
+2025-07-23 21:22:26.169 +05:45 [INF] Comment added to PostId=1
+2025-07-23 21:22:26.171 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 94.8804 ms

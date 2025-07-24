@@ -1,0 +1,609 @@
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.exe
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.deps.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.runtimeconfig.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfo.cs
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\scopedcss\bundle\BlogManagementSystem.Api.styles.css
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogMana.5DEF84D4.Up2Date
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\refint\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
+C:\Users\bijaya\Downloads\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.exe
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.deps.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.runtimeconfig.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfo.cs
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\scopedcss\bundle\BlogManagementSystem.Api.styles.css
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogMana.5DEF84D4.Up2Date
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\refint\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
+C:\Users\bijaya\Desktop\BlogManagementSystemBBB\BlogManagementSystem (12)\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfo.cs
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\refint\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.exe
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.deps.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.runtimeconfig.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\scopedcss\bundle\BlogManagementSystem.Api.styles.css
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogMana.5DEF84D4.Up2Date
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemUpdated_v2\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.exe
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.deps.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.runtimeconfig.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfo.cs
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\scopedcss\bundle\BlogManagementSystem.Api.styles.css
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogMana.5DEF84D4.Up2Date
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\refint\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeatured\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.exe
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.deps.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.runtimeconfig.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfo.cs
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\scopedcss\bundle\BlogManagementSystem.Api.styles.css
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogMana.5DEF84D4.Up2Date
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\refint\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
+C:\Users\bijaya\Downloads\BlogManagementSystemFullyFeaturedNew\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.exe
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.deps.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.runtimeconfig.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfo.cs
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\scopedcss\bundle\BlogManagementSystem.Api.styles.css
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogMana.5DEF84D4.Up2Date
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\refint\BlogManagementSystem.Api.dll
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
+C:\Users\bijaya\Downloads\BMS Before admin privileges\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.exe
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.deps.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.runtimeconfig.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfo.cs
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\scopedcss\bundle\BlogManagementSystem.Api.styles.css
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogMana.5DEF84D4.Up2Date
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\refint\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
+C:\Users\sangitak\Downloads\BMS FINAL\1) BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.exe
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.deps.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.runtimeconfig.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfo.cs
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\scopedcss\bundle\BlogManagementSystem.Api.styles.css
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogMana.5DEF84D4.Up2Date
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\refint\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\FakeItEasy.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMS FINAL\src\BlogManagementSystem.Api\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.exe
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.deps.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.runtimeconfig.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\FakeItEasy.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.AssemblyInfo.cs
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\scopedcss\bundle\BlogManagementSystem.Api.styles.css
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogMana.5DEF84D4.Up2Date
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\refint\BlogManagementSystem.Api.dll
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.pdb
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\BlogManagementSystem.Api.genruntimeconfig.cache
+C:\Users\sangitak\Downloads\BMS FINAL\BMSDotNet\src\BlogManagementSystem.Api\obj\Debug\net8.0\ref\BlogManagementSystem.Api.dll

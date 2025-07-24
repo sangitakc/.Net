@@ -1,0 +1,397 @@
+2025-07-19 16:07:01.219 +05:45 [INF] HTTP GET / responded 301 in 8.5353 ms
+2025-07-19 16:07:01.382 +05:45 [INF] HTTP GET /index.html responded 200 in 91.5520 ms
+2025-07-19 16:07:01.420 +05:45 [INF] HTTP GET /index.js responded 200 in 23.8275 ms
+2025-07-19 16:07:01.513 +05:45 [INF] HTTP GET /index.css responded 200 in 120.2338 ms
+2025-07-19 16:07:01.622 +05:45 [INF] HTTP GET /swagger-ui.css responded 200 in 230.4993 ms
+2025-07-19 16:07:01.624 +05:45 [INF] HTTP GET /swagger-ui-standalone-preset.js responded 200 in 231.1461 ms
+2025-07-19 16:07:01.828 +05:45 [INF] HTTP GET /swagger-ui-bundle.js responded 200 in 435.2790 ms
+2025-07-19 16:07:02.310 +05:45 [INF] HTTP GET /favicon-32x32.png responded 200 in 1.3464 ms
+2025-07-19 16:07:02.325 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 71.5030 ms
+2025-07-19 16:07:19.060 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 331.6455 ms
+2025-07-19 16:07:41.538 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 2939.6522 ms
+2025-07-19 16:07:56.804 +05:45 [INF] HTTP GET /index.html responded 200 in 1.5217 ms
+2025-07-19 16:07:57.116 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 27.4199 ms
+2025-07-19 16:08:09.741 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 302 in 14.0127 ms
+2025-07-19 16:08:09.744 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.4487 ms
+2025-07-19 16:08:47.328 +05:45 [INF] HTTP POST /api/Auth/login responded 401 in 3.8314 ms
+2025-07-19 16:09:23.662 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 147.0729 ms
+2025-07-19 16:09:48.679 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 120.4049 ms
+2025-07-19 16:10:21.881 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 302 in 2.1901 ms
+2025-07-19 16:10:21.884 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.1586 ms
+2025-07-19 16:12:55.927 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 36.6933 ms
+2025-07-19 16:13:09.225 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 261.4531 ms
+2025-07-19 16:13:27.400 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 279.9779 ms
+2025-07-19 16:13:46.953 +05:45 [INF] HTTP POST /api/posts/Posts/create_own_post responded 302 in 26.6436 ms
+2025-07-19 16:13:46.957 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.8572 ms
+2025-07-19 16:16:23.178 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 54.3672 ms
+2025-07-19 16:16:36.368 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 294.2852 ms
+2025-07-19 16:16:52.213 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 383.8918 ms
+2025-07-19 16:17:23.175 +05:45 [INF] HTTP POST /api/posts/create_own_post responded 302 in 27.3115 ms
+2025-07-19 16:17:23.179 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.7718 ms
+2025-07-19 16:19:21.244 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 50.9119 ms
+2025-07-19 16:19:29.036 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 302 in 53.8599 ms
+2025-07-19 16:19:29.043 +05:45 [INF] HTTP GET /Account/Login responded 404 in 2.4868 ms
+2025-07-19 16:19:38.034 +05:45 [INF] HTTP GET /api/Admin/view_all_posts responded 302 in 4.3017 ms
+2025-07-19 16:19:38.037 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.1973 ms
+2025-07-19 16:22:24.718 +05:45 [INF] HTTP GET /api/Admin/view_author_information/1 responded 302 in 11.9854 ms
+2025-07-19 16:22:24.724 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.3609 ms
+2025-07-19 16:22:35.408 +05:45 [INF] HTTP GET /index.html responded 200 in 127.2799 ms
+2025-07-19 16:22:35.816 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 35.4915 ms
+2025-07-19 16:22:45.551 +05:45 [INF] HTTP GET /api/Posts/view-all-posts responded 302 in 0.8639 ms
+2025-07-19 16:22:45.555 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.1885 ms
+2025-07-19 16:23:01.408 +05:45 [INF] HTTP POST /api/Posts/create-own-post responded 302 in 0.4889 ms
+2025-07-19 16:23:01.411 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.1793 ms
+2025-07-19 16:23:16.348 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 192.7258 ms
+2025-07-19 16:23:48.373 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 268.5236 ms
+2025-07-19 16:24:15.232 +05:45 [INF] HTTP POST /api/Posts/create-own-post responded 302 in 4.0382 ms
+2025-07-19 16:24:15.239 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.1719 ms
+2025-07-19 16:26:13.649 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 30.5548 ms
+2025-07-19 16:26:26.134 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 230.3736 ms
+2025-07-19 16:26:46.739 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 277.0385 ms
+2025-07-19 16:27:05.934 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 302 in 16.1469 ms
+2025-07-19 16:27:05.939 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.7386 ms
+2025-07-19 16:27:15.834 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 302 in 4.1736 ms
+2025-07-19 16:27:15.839 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.2570 ms
+2025-07-19 16:27:16.533 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 302 in 2.5334 ms
+2025-07-19 16:27:16.544 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.4968 ms
+2025-07-19 16:27:16.701 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 302 in 0.2910 ms
+2025-07-19 16:27:16.723 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.3285 ms
+2025-07-19 16:27:16.912 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 302 in 0.7478 ms
+2025-07-19 16:27:16.921 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.2065 ms
+2025-07-19 16:27:17.029 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 302 in 0.2403 ms
+2025-07-19 16:27:17.036 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.2649 ms
+2025-07-19 16:38:58.207 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 100.8119 ms
+2025-07-19 16:39:11.677 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 223.0413 ms
+2025-07-19 16:39:36.303 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 282.4063 ms
+2025-07-19 16:39:56.274 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 302 in 17.5311 ms
+2025-07-19 16:39:56.280 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.9136 ms
+2025-07-19 16:48:28.487 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 86.5385 ms
+2025-07-19 16:48:55.201 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 320.5061 ms
+2025-07-19 16:49:15.769 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 263.0387 ms
+2025-07-19 16:49:54.703 +05:45 [INF] HTTP POST /api/Posts/CreateOwnPost responded 302 in 35.5314 ms
+2025-07-19 16:49:54.707 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.7489 ms
+2025-07-19 17:56:42.185 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 86.1658 ms
+2025-07-19 17:57:29.503 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 76.4022 ms
+2025-07-19 17:58:00.396 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 1796.4369 ms
+2025-07-19 17:58:12.827 +05:45 [INF] HTTP GET /api/Posts/ViewAllPosts responded 302 in 32.7179 ms
+2025-07-19 17:58:12.833 +05:45 [INF] HTTP GET /Account/Login responded 404 in 2.7205 ms
+2025-07-19 17:58:16.686 +05:45 [INF] HTTP GET /api/Posts/ViewAllPosts responded 302 in 7.8618 ms
+2025-07-19 17:58:16.691 +05:45 [INF] HTTP GET /Account/Login responded 404 in 0.1959 ms
+2025-07-19 18:01:14.125 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 48.5942 ms
+2025-07-19 18:01:23.412 +05:45 [INF] HTTP GET /api/Posts/ViewAllPosts responded 401 in 885.2234 ms
+2025-07-19 18:01:34.949 +05:45 [INF] HTTP POST /api/Posts/CreateOwnPost responded 401 in 31.7274 ms
+2025-07-19 18:01:58.832 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 307.6513 ms
+2025-07-19 18:02:22.749 +05:45 [INF] HTTP GET /api/Posts/ViewAllPosts responded 200 in 160.8830 ms
+2025-07-19 18:03:03.524 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 181.5516 ms
+2025-07-19 18:03:43.611 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 99.3989 ms
+2025-07-19 18:04:31.957 +05:45 [INF] HTTP POST /api/Posts/CreateOwnPost responded 200 in 116.7980 ms
+2025-07-19 18:55:55.989 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 40.9452 ms
+2025-07-19 18:57:01.067 +05:45 [INF] HTTP GET /index.html responded 200 in 59.0754 ms
+2025-07-19 18:57:01.190 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 28.1545 ms
+2025-07-19 18:57:40.840 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 2777.3887 ms
+2025-07-19 18:58:06.614 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 345.4809 ms
+2025-07-19 18:58:32.154 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 404 in 121.6681 ms
+2025-07-19 18:58:36.785 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 27.4035 ms
+2025-07-19 19:00:15.558 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 72.3061 ms
+2025-07-19 19:00:32.008 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 21.9754 ms
+2025-07-19 19:01:21.528 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 42.1641 ms
+2025-07-19 19:01:27.190 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 2.0527 ms
+2025-07-19 19:01:30.692 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.3170 ms
+2025-07-19 19:02:11.427 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 400 in 27.1208 ms
+2025-07-19 19:02:31.960 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 200 in 15.7300 ms
+2025-07-19 19:02:40.115 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 3.5423 ms
+2025-07-19 19:02:51.609 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.3593 ms
+2025-07-19 19:13:48.785 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 39.6494 ms
+2025-07-19 19:15:07.405 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 325.7289 ms
+2025-07-19 19:15:27.992 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 210.3058 ms
+2025-07-19 19:16:22.464 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 133.8895 ms
+2025-07-19 19:16:51.292 +05:45 [INF] HTTP DELETE /api/Posts/delete_own_post/5 responded 400 in 38.2447 ms
+2025-07-19 19:17:09.560 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 63.8333 ms
+2025-07-19 19:17:17.743 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 29.6422 ms
+2025-07-19 19:17:28.253 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 5.4649 ms
+2025-07-19 19:17:55.708 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 200 in 22.0949 ms
+2025-07-19 19:18:16.085 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 1.9251 ms
+2025-07-19 19:18:29.620 +05:45 [INF] HTTP DELETE /api/Posts/delete_own_post/5 responded 400 in 2.2731 ms
+2025-07-19 19:18:39.324 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 200 in 20.5880 ms
+2025-07-19 19:18:45.461 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 14.3194 ms
+2025-07-19 19:19:03.968 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 2.7766 ms
+2025-07-19 19:19:27.450 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 9.5184 ms
+2025-07-19 19:19:29.784 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 1.2816 ms
+2025-07-19 19:19:29.953 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 1.1563 ms
+2025-07-19 19:19:30.147 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 1.9254 ms
+2025-07-19 19:19:30.563 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 1.3410 ms
+2025-07-19 19:19:31.102 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 1.2791 ms
+2025-07-19 19:19:31.541 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 1.8759 ms
+2025-07-19 19:19:43.201 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 1.3197 ms
+2025-07-19 19:19:45.934 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 1.4414 ms
+2025-07-19 19:19:46.436 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 1.9871 ms
+2025-07-19 19:19:46.608 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 1.4366 ms
+2025-07-19 19:19:46.798 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 1.3817 ms
+2025-07-19 19:20:00.369 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 200 in 1.6195 ms
+2025-07-19 19:20:13.369 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 1.1217 ms
+2025-07-19 19:20:57.345 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 400 in 49.5688 ms
+2025-07-19 19:21:32.059 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 200 in 121.8901 ms
+2025-07-19 19:21:54.731 +05:45 [INF] HTTP POST /api/Auth/login responded 401 in 107.5229 ms
+2025-07-19 19:21:58.841 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 86.5739 ms
+2025-07-19 19:22:18.986 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 91.4996 ms
+2025-07-19 19:23:08.672 +05:45 [INF] HTTP GET /api/Admin/view_author_information/029329ec-2c5e-49f7-a59c-ccf784590a2b responded 200 in 36.3407 ms
+2025-07-19 19:23:44.723 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 25.7157 ms
+2025-07-19 19:23:49.272 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 1.3324 ms
+2025-07-19 19:23:52.607 +05:45 [INF] HTTP GET /api/Posts/view_post/22 responded 404 in 1.4505 ms
+2025-07-19 19:24:06.681 +05:45 [INF] HTTP DELETE /api/Admin/delete_any_post/1 responded 200 in 62.2256 ms
+2025-07-19 19:24:16.128 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.3561 ms
+2025-07-19 19:24:33.368 +05:45 [INF] HTTP DELETE /api/Admin/delete_author/029329ec-2c5e-49f7-a59c-ccf784590a2b responded 200 in 10.8890 ms
+2025-07-19 19:25:02.403 +05:45 [INF] HTTP POST /api/Auth/login responded 401 in 5.8014 ms
+2025-07-19 19:25:15.929 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 100.8525 ms
+2025-07-19 19:25:37.214 +05:45 [INF] HTTP POST /api/Auth/login responded 400 in 38.3950 ms
+2025-07-19 19:25:46.445 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 104.3984 ms
+2025-07-19 19:26:15.080 +05:45 [INF] HTTP GET /index.html responded 200 in 64.4402 ms
+2025-07-19 19:26:15.224 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 31.4025 ms
+2025-07-19 19:26:31.185 +05:45 [INF] HTTP GET /index.html responded 200 in 0.8039 ms
+2025-07-19 19:26:31.276 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 9.4843 ms
+2025-07-19 19:52:52.424 +05:45 [ERR] Hosting failed to start
+System.IO.IOException: Failed to bind to address https://127.0.0.1:57685: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, Boolean disconnectOnFailure, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportOptions.CreateDefaultBoundListenSocket(EndPoint endpoint)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass28_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(ListenOptions[] listenOptions, AddressBindContext context, Func`2 useHttps, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-07-19 19:55:27.520 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 49.4296 ms
+2025-07-19 19:55:54.713 +05:45 [INF] HTTP GET /index.html responded 200 in 71.6418 ms
+2025-07-19 19:55:54.836 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 41.9588 ms
+2025-07-19 19:57:11.412 +05:45 [INF] HTTP GET /index.html responded 200 in 0.7963 ms
+2025-07-19 19:57:11.581 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 15.9354 ms
+2025-07-19 19:57:20.218 +05:45 [INF] HTTP GET /index.html responded 200 in 0.5486 ms
+2025-07-19 19:57:20.318 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 17.7632 ms
+2025-07-19 19:58:15.226 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 401 in 149.9210 ms
+2025-07-19 19:58:22.963 +05:45 [INF] HTTP GET /index.html responded 200 in 0.3461 ms
+2025-07-19 19:58:23.056 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 10.9459 ms
+2025-07-19 19:58:36.614 +05:45 [INF] HTTP GET /index.html responded 200 in 0.7513 ms
+2025-07-19 19:58:36.700 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 10.8347 ms
+2025-07-19 19:59:07.225 +05:45 [INF] HTTP GET /index.html responded 200 in 0.3418 ms
+2025-07-19 19:59:07.322 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 10.4106 ms
+2025-07-19 20:21:12.856 +05:45 [INF] HTTP GET /index.html responded 200 in 0.5519 ms
+2025-07-19 20:21:12.990 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 27.5405 ms
+2025-07-19 20:21:51.677 +05:45 [INF] HTTP GET /index.html responded 200 in 0.3567 ms
+2025-07-19 20:21:51.784 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 12.5284 ms
+2025-07-19 20:21:56.580 +05:45 [INF] HTTP GET /index.html responded 200 in 0.3189 ms
+2025-07-19 20:21:56.663 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 8.6170 ms
+2025-07-19 20:22:06.552 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 401 in 6.2221 ms
+2025-07-19 20:22:10.079 +05:45 [INF] HTTP GET /index.html responded 200 in 0.6981 ms
+2025-07-19 20:22:10.178 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 12.5096 ms
+2025-07-19 20:22:11.202 +05:45 [INF] HTTP GET /index.html responded 200 in 0.3680 ms
+2025-07-19 20:22:11.300 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 12.5885 ms
+2025-07-19 20:22:21.586 +05:45 [INF] HTTP GET /index.html responded 200 in 0.2823 ms
+2025-07-19 20:22:21.676 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 9.5162 ms
+2025-07-19 20:22:37.215 +05:45 [INF] HTTP GET /index.html responded 200 in 0.3033 ms
+2025-07-19 20:22:37.346 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 11.9275 ms
+2025-07-19 20:22:44.982 +05:45 [INF] HTTP GET /index.html responded 200 in 0.4227 ms
+2025-07-19 20:22:45.081 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 9.4854 ms
+2025-07-19 20:23:24.594 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 44.7094 ms
+2025-07-19 20:40:27.094 +05:45 [ERR] Hosting failed to start
+System.IO.IOException: Failed to bind to address https://127.0.0.1:57685: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, Boolean disconnectOnFailure, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportOptions.CreateDefaultBoundListenSocket(EndPoint endpoint)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass28_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(ListenOptions[] listenOptions, AddressBindContext context, Func`2 useHttps, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-07-19 20:51:11.912 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 52.0251 ms
+2025-07-19 21:02:58.824 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 73.7547 ms
+2025-07-19 21:03:42.525 +05:45 [INF] HTTP GET /index.html responded 200 in 60.3132 ms
+2025-07-19 21:03:42.663 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 31.9991 ms
+2025-07-19 21:03:55.889 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 401 in 1509.8440 ms
+2025-07-19 21:03:59.475 +05:45 [INF] HTTP GET /index.html responded 200 in 0.8262 ms
+2025-07-19 21:03:59.600 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 19.0849 ms
+2025-07-19 21:04:30.638 +05:45 [INF] HTTP POST /api/Auth/register responded 400 in 95.9462 ms
+2025-07-19 21:04:42.732 +05:45 [INF] HTTP POST /api/Auth/register responded 400 in 64.6320 ms
+2025-07-19 21:05:24.228 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 138.6990 ms
+2025-07-19 21:05:43.067 +05:45 [INF] HTTP POST /api/Auth/login responded 401 in 118.3107 ms
+2025-07-19 21:05:50.604 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 261.6132 ms
+2025-07-19 21:06:19.403 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 118.5898 ms
+2025-07-19 21:06:28.327 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 404 in 35.3739 ms
+2025-07-19 21:06:45.008 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 400 in 31.5932 ms
+2025-07-19 21:07:05.864 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 200 in 96.3559 ms
+2025-07-19 21:07:37.583 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 37.7728 ms
+2025-07-19 21:08:08.877 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 70.5879 ms
+2025-07-19 21:08:27.496 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 20.6083 ms
+2025-07-19 21:08:44.950 +05:45 [INF] HTTP POST /api/Posts/upvote_post/5 responded 200 in 18.3429 ms
+2025-07-19 21:08:53.797 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 200 in 20.0560 ms
+2025-07-19 21:09:04.611 +05:45 [INF] HTTP DELETE /api/Posts/delete_own_post/55 responded 400 in 30.9429 ms
+2025-07-19 21:09:23.069 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 2.5483 ms
+2025-07-19 21:09:38.393 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 19.8436 ms
+2025-07-19 21:09:43.628 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 2.3663 ms
+2025-07-19 21:09:53.444 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 22.5070 ms
+2025-07-19 21:09:59.222 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 2.3922 ms
+2025-07-19 21:10:13.599 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 3.9821 ms
+2025-07-19 21:10:29.640 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 2.0189 ms
+2025-07-19 21:10:42.615 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 2.0859 ms
+2025-07-19 21:11:09.215 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 12.1647 ms
+2025-07-19 21:11:19.126 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 200 in 2.7558 ms
+2025-07-19 21:11:21.946 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 2.1437 ms
+2025-07-19 21:11:29.690 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.9791 ms
+2025-07-19 21:12:42.610 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 200 in 39.8810 ms
+2025-07-19 21:12:55.427 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.5620 ms
+2025-07-19 21:13:33.827 +05:45 [INF] HTTP DELETE /api/Admin/delete_any_post/1 responded 403 in 28.2891 ms
+2025-07-19 21:13:44.200 +05:45 [INF] HTTP DELETE /api/Admin/delete_author/1 responded 403 in 11.0169 ms
+2025-07-19 21:13:51.898 +05:45 [INF] HTTP GET /api/Admin/view_author_information/1 responded 403 in 0.8087 ms
+2025-07-19 21:13:55.301 +05:45 [INF] HTTP GET /api/Admin/view_author_information/1 responded 403 in 0.3215 ms
+2025-07-19 21:14:09.760 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 403 in 0.8625 ms
+2025-07-19 21:18:43.511 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 42.2210 ms
+2025-07-19 21:18:59.654 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 467.5075 ms
+2025-07-19 21:19:16.805 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 200 in 116.5804 ms
+2025-07-19 21:19:55.247 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 100.4602 ms
+2025-07-19 21:20:20.132 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 91.5243 ms
+2025-07-19 21:20:44.349 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 88.0262 ms
+2025-07-19 21:20:58.618 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 200 in 21.2061 ms
+2025-07-19 21:21:17.622 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 79.9233 ms
+2025-07-19 21:21:50.777 +05:45 [INF] HTTP DELETE /api/Admin/delete_author/sdfdfd responded 404 in 36.0677 ms
+2025-07-19 21:22:01.962 +05:45 [INF] HTTP DELETE /api/Admin/delete_author/d476a29a-cea9-4892-978a-acbc2f09f7c8 responded 200 in 25.3484 ms
+2025-07-19 21:22:08.696 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 200 in 2.1802 ms
+2025-07-19 21:23:44.148 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 403 in 22.3982 ms
+2025-07-19 21:24:08.942 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 403 in 19.5809 ms
+2025-07-19 21:24:21.150 +05:45 [INF] HTTP DELETE /api/Posts/delete_own_post/1 responded 403 in 2.1099 ms
+2025-07-19 21:24:40.720 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.6074 ms
+2025-07-19 21:24:56.894 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 403 in 0.5225 ms
+2025-07-19 21:25:17.987 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 92.5639 ms
+2025-07-19 21:25:42.407 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 93.8363 ms
+2025-07-19 21:25:48.096 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 20.7906 ms
+2025-07-19 21:27:07.877 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 96.3003 ms
+2025-07-19 21:27:24.886 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 200 in 1.9540 ms
+2025-07-19 21:27:37.392 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.9066 ms
+2025-07-19 21:27:47.745 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 403 in 1.1969 ms
+2025-07-19 21:28:00.289 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 403 in 0.4493 ms
+2025-07-19 21:28:10.396 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 403 in 0.6783 ms
+2025-07-19 21:28:24.148 +05:45 [INF] HTTP POST /api/Posts/comment responded 403 in 0.5342 ms
+2025-07-19 21:28:27.295 +05:45 [INF] HTTP POST /api/Posts/comment responded 403 in 0.3918 ms
+2025-07-19 21:28:39.102 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 403 in 0.5140 ms
+2025-07-19 21:28:54.556 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 403 in 1.0075 ms
+2025-07-19 21:28:58.888 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 403 in 0.4095 ms
+2025-07-19 21:29:08.214 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 33.3789 ms
+2025-07-19 21:29:36.289 +05:45 [INF] HTTP GET /index.html responded 200 in 57.7684 ms
+2025-07-19 21:29:36.433 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 32.9365 ms
+2025-07-19 21:31:08.684 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 401 in 15.0151 ms
+2025-07-19 21:31:18.432 +05:45 [INF] HTTP GET /index.html responded 200 in 0.4955 ms
+2025-07-19 21:31:18.572 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 27.3368 ms
+2025-07-19 21:31:48.701 +05:45 [INF] HTTP POST /api/Auth/login responded 401 in 99.5176 ms
+2025-07-19 21:31:55.484 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 83.8746 ms
+2025-07-19 21:32:09.507 +05:45 [INF] HTTP GET /index.html responded 200 in 0.8868 ms
+2025-07-19 21:32:09.640 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 18.0293 ms
+2025-07-19 21:32:24.884 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.5119 ms
+2025-07-19 21:32:31.522 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 1.8672 ms
+2025-07-19 21:32:52.760 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 403 in 1.0247 ms
+2025-07-19 21:34:13.482 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 403 in 13.2534 ms
+2025-07-19 21:48:42.039 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 33.8263 ms
+2025-07-19 21:59:03.090 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 63.9355 ms
+2025-07-19 21:59:26.899 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 393.6341 ms
+2025-07-19 22:00:14.353 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 165.9219 ms
+2025-07-19 22:00:23.710 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 76.1302 ms
+2025-07-19 22:00:40.788 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 30.4230 ms
+2025-07-19 22:00:53.739 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 400 in 28.0063 ms
+2025-07-19 22:01:11.439 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 200 in 5.3221 ms
+2025-07-19 22:01:16.575 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 2.1710 ms
+2025-07-19 22:01:30.504 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 200 in 24.0634 ms
+2025-07-19 22:01:35.741 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 2.3381 ms
+2025-07-19 22:01:50.618 +05:45 [INF] HTTP POST /api/Posts/downvote_post/1 responded 200 in 12.8204 ms
+2025-07-19 22:01:55.930 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 3.2120 ms
+2025-07-19 22:02:16.820 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 20.9429 ms
+2025-07-19 22:04:59.387 +05:45 [INF] HTTP DELETE /api/Admin/delete_any_post/32 responded 404 in 31.6189 ms
+2025-07-19 22:05:06.710 +05:45 [INF] HTTP DELETE /api/Posts/delete_own_post/32 responded 403 in 3.5802 ms
+2025-07-19 22:13:13.983 +05:45 [INF] HTTP GET /index.html responded 200 in 95.0483 ms
+2025-07-19 22:13:14.278 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 18.9826 ms
+2025-07-19 22:15:23.121 +05:45 [INF] HTTP GET /index.html responded 200 in 1.6574 ms
+2025-07-19 22:15:23.442 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 19.7229 ms
+2025-07-19 22:24:37.102 +05:45 [INF] HTTP GET / responded 301 in 17.5352 ms
+2025-07-19 22:24:37.324 +05:45 [INF] HTTP GET /index.html responded 200 in 124.2871 ms
+2025-07-19 22:24:37.367 +05:45 [INF] HTTP GET /index.js responded 200 in 18.7969 ms
+2025-07-19 22:24:37.475 +05:45 [INF] HTTP GET /index.css responded 200 in 127.7369 ms
+2025-07-19 22:24:37.542 +05:45 [INF] HTTP GET /swagger-ui.css responded 200 in 199.5802 ms
+2025-07-19 22:24:37.547 +05:45 [INF] HTTP GET /swagger-ui-standalone-preset.js responded 200 in 168.0814 ms
+2025-07-19 22:24:37.628 +05:45 [INF] HTTP GET /swagger-ui-bundle.js responded 200 in 260.7214 ms
+2025-07-19 22:24:38.123 +05:45 [INF] HTTP GET /favicon-32x32.png responded 200 in 2.0515 ms
+2025-07-19 22:24:38.134 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 55.3742 ms
+2025-07-19 22:26:09.215 +05:45 [INF] HTTP POST /api/Auth/register responded 400 in 3019.0529 ms
+2025-07-19 22:26:23.215 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 149.5693 ms
+2025-07-19 22:27:04.933 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 319.2177 ms
+2025-07-19 22:27:42.361 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 401 in 55.8414 ms
+2025-07-19 22:28:35.598 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 121.2851 ms
+2025-07-19 22:29:06.598 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 84.9364 ms
+2025-07-19 22:30:00.930 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 200 in 44.0091 ms
+2025-07-19 22:30:16.246 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 18.4684 ms
+2025-07-19 22:30:27.259 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 5.1683 ms
+2025-07-19 22:30:48.955 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 200 in 28.9018 ms
+2025-07-19 22:31:19.043 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 39.7349 ms
+2025-07-19 22:32:28.374 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 400 in 47.6334 ms
+2025-07-19 22:34:49.088 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 200 in 99.9754 ms
+2025-07-19 22:35:00.624 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 4.5587 ms
+2025-07-19 22:35:48.883 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 7.9338 ms
+2025-07-19 22:35:56.421 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.4431 ms
+2025-07-19 22:37:53.198 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 403 in 19.3438 ms
+2025-07-19 22:38:01.079 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 403 in 1.0505 ms
+2025-07-19 22:38:28.755 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 99.1797 ms
+2025-07-19 22:38:47.827 +05:45 [INF] HTTP GET /api/Admin/view_all_authors responded 200 in 33.4089 ms
+2025-07-19 22:39:02.019 +05:45 [INF] HTTP GET /api/Admin/view_author_information/1 responded 404 in 8.3625 ms
+2025-07-19 22:39:20.144 +05:45 [INF] HTTP GET /api/Admin/view_author_information/8d8d2f80-aeae-40bc-967d-bca838f582e3 responded 200 in 4.2386 ms
+2025-07-19 22:39:35.775 +05:45 [INF] HTTP DELETE /api/Admin/delete_any_post/1 responded 200 in 38.7382 ms
+2025-07-19 22:39:50.941 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 1.7640 ms
+2025-07-19 22:40:09.228 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 404 in 1.3106 ms
+2025-07-19 22:40:28.342 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 2.3276 ms
+2025-07-19 22:40:58.152 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 200 in 1.4074 ms
+2025-07-19 22:41:13.237 +05:45 [INF] HTTP POST /api/Posts/downvote_post/2 responded 200 in 13.7293 ms
+2025-07-19 22:41:28.718 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 1.9595 ms
+2025-07-19 22:41:58.231 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 200 in 122.8282 ms
+2025-07-19 22:42:06.653 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 2.1327 ms
+2025-07-19 22:45:07.717 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 14.7227 ms
+2025-07-19 22:45:33.984 +05:45 [INF] HTTP DELETE /api/Admin/delete_author/8d8d2f80-aeae-40bc-967d-bca838f582e3 responded 200 in 17.1396 ms
+2025-07-19 22:45:37.694 +05:45 [INF] HTTP GET /api/Admin/view_author_information/8d8d2f80-aeae-40bc-967d-bca838f582e3 responded 404 in 2.2447 ms
+2025-07-19 22:46:14.291 +05:45 [INF] HTTP DELETE /api/Posts/delete_own_post/1 responded 400 in 32.0521 ms
+2025-07-19 22:47:12.708 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 44.1888 ms
+2025-07-19 22:47:20.279 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 404 in 1.5986 ms
+2025-07-19 22:48:56.786 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 200 in 10.2274 ms
+2025-07-19 22:49:05.506 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 200 in 1.4950 ms
+2025-07-19 23:11:26.267 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 109.8150 ms
+2025-07-19 23:14:03.832 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 1703.8300 ms
+2025-07-19 23:14:43.541 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 292.4066 ms
+2025-07-19 23:15:18.176 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 116.6181 ms
+2025-07-19 23:15:49.269 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 200 in 76.5973 ms
+2025-07-19 23:15:59.186 +05:45 [INF] HTTP PUT /api/Posts/edit_own_post responded 400 in 33.5739 ms
+2025-07-19 23:18:39.456 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 400 in 8.3894 ms
+2025-07-19 23:18:47.256 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 200 in 98.0911 ms
+2025-07-19 23:18:53.447 +05:45 [INF] HTTP PUT /api/Posts/edit_own_userdetails responded 200 in 81.6545 ms
