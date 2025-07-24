@@ -862,6 +862,14 @@
             "type": "string",
             "nullable": true
           },
+          "authorName": {
+            "type": "string",
+            "nullable": true
+          },
+          "authorEmail": {
+            "type": "string",
+            "nullable": true
+          },
           "createdAt": {
             "type": "string",
             "format": "date-time"

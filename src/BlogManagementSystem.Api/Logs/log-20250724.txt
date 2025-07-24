@@ -13,3 +13,38 @@
 2025-07-24 22:47:59.967 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 34.3322 ms
 2025-07-24 22:48:51.145 +05:45 [INF] Fetching posts for author 1afbdcd5-57b0-4c18-b260-1dee6da33b16
 2025-07-24 22:48:51.173 +05:45 [INF] HTTP GET /api/Posts/view_my_posts responded 200 in 48.1128 ms
+2025-07-24 23:26:53.670 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 30.3081 ms
+2025-07-24 23:27:29.756 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 480.4887 ms
+2025-07-24 23:27:49.062 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 262.1873 ms
+2025-07-24 23:28:14.270 +05:45 [INF] Creating post for UserId=464324a3-ad84-4b69-a68f-756259ac1066
+2025-07-24 23:28:14.330 +05:45 [INF] Created post 1
+2025-07-24 23:28:14.341 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 156.3605 ms
+2025-07-24 23:28:27.092 +05:45 [INF] Creating post for UserId=464324a3-ad84-4b69-a68f-756259ac1066
+2025-07-24 23:28:27.093 +05:45 [INF] Created post 2
+2025-07-24 23:28:27.093 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 8.1910 ms
+2025-07-24 23:28:39.356 +05:45 [INF] UserId=464324a3-ad84-4b69-a68f-756259ac1066 upvoting PostId=1
+2025-07-24 23:28:39.417 +05:45 [INF] Upvoted post 1
+2025-07-24 23:28:39.418 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 200 in 79.7986 ms
+2025-07-24 23:28:43.013 +05:45 [INF] UserId=464324a3-ad84-4b69-a68f-756259ac1066 upvoting PostId=2
+2025-07-24 23:28:43.014 +05:45 [INF] Upvoted post 2
+2025-07-24 23:28:43.015 +05:45 [INF] HTTP POST /api/Posts/upvote_post/2 responded 200 in 2.5512 ms
+2025-07-24 23:28:47.227 +05:45 [INF] UserId=464324a3-ad84-4b69-a68f-756259ac1066 upvoting PostId=2
+2025-07-24 23:28:47.229 +05:45 [INF] Upvoted post 2
+2025-07-24 23:28:47.229 +05:45 [INF] HTTP POST /api/Posts/upvote_post/2 responded 200 in 3.2277 ms
+2025-07-24 23:29:07.427 +05:45 [INF] UserId=464324a3-ad84-4b69-a68f-756259ac1066 commenting on PostId=1
+2025-07-24 23:29:07.444 +05:45 [INF] Comment added to PostId=1
+2025-07-24 23:29:07.444 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 33.7804 ms
+2025-07-24 23:29:19.666 +05:45 [INF] UserId=464324a3-ad84-4b69-a68f-756259ac1066 commenting on PostId=2
+2025-07-24 23:29:19.667 +05:45 [INF] Comment added to PostId=2
+2025-07-24 23:29:19.668 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 2.8974 ms
+2025-07-24 23:29:30.326 +05:45 [INF] Fetching all posts
+2025-07-24 23:29:30.346 +05:45 [INF] Retrieving profile for UserId=464324a3-ad84-4b69-a68f-756259ac1066
+2025-07-24 23:29:30.356 +05:45 [INF] Retrieving profile for UserId=464324a3-ad84-4b69-a68f-756259ac1066
+2025-07-24 23:29:30.359 +05:45 [INF] HTTP GET /api/Posts/view_all_posts responded 200 in 39.0678 ms
+2025-07-24 23:31:55.458 +05:45 [INF] Fetching post 1
+2025-07-24 23:31:55.459 +05:45 [INF] Retrieving profile for UserId=464324a3-ad84-4b69-a68f-756259ac1066
+2025-07-24 23:31:55.460 +05:45 [INF] HTTP GET /api/Posts/view_post/1 responded 200 in 15.9048 ms
+2025-07-24 23:32:14.060 +05:45 [INF] Fetching posts for author 464324a3-ad84-4b69-a68f-756259ac1066
+2025-07-24 23:32:14.077 +05:45 [INF] Retrieving profile for UserId=464324a3-ad84-4b69-a68f-756259ac1066
+2025-07-24 23:32:14.078 +05:45 [INF] Retrieving profile for UserId=464324a3-ad84-4b69-a68f-756259ac1066
+2025-07-24 23:32:14.078 +05:45 [INF] HTTP GET /api/Posts/view_my_posts responded 200 in 24.0040 ms

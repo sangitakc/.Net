@@ -14,36 +14,47 @@ namespace BlogManagementSystem.Api.Services
     {
         private readonly IPostRepository _repo;
         private readonly ILogger<PostService> _logger;
+        private readonly IUserService _userService;
 
-        public PostService(IPostRepository repo, ILogger<PostService> logger)
+        public PostService(IPostRepository repo, ILogger<PostService> logger, IUserService userService)
         {
             _repo = repo;
+            _userService = userService;
             _logger = logger;
         }
 
         public async Task<BaseResponse<IEnumerable<PostDto>>> GetAllPostsAsync()
         {
-            var posts = await _repo.GetAllAsync(); 
+            _logger.LogInformation("Fetching all posts");
+            var posts = await _repo.GetAllAsync();
 
-            var dtos = posts.Select(post => new PostDto
+            var dtos = new List<PostDto>();
+            foreach (var post in posts)
             {
-                Id = post.Id,
-                Title = post.Title,
-                Content = post.Content,
-                AuthorId = post.AuthorId,
-                CreatedAt = post.CreatedAt,
-                VoteCount = post.Votes.Count(v => v.IsUpvote),
-                CommentCount = post.Comments.Count,
-                Comments = post.Comments
-                      .Select(c => new CommentDetailDto
-                      {
-                          Id = c.Id,
-                          UserId = c.UserId,
-                          Text= c.Text,
-                          CreatedAt = c.CreatedAt
-                      })
-                      .ToList()
-            }).ToList();
+
+                var userRes = await _userService.GetOwnUserAsync(post.AuthorId);
+                var author = userRes.Data;
+
+                dtos.Add(new PostDto
+                {
+                    Id = post.Id,
+                    Title = post.Title,
+                    Content = post.Content,
+                    AuthorId = post.AuthorId,
+                    AuthorName = $"{author.FirstName} {author.LastName}", 
+                    AuthorEmail = author.Email,
+                    CreatedAt = post.CreatedAt,
+                    VoteCount = post.Votes.Count(v => v.IsUpvote) - post.Votes.Count(v => !v.IsUpvote),
+                    CommentCount = post.Comments.Count,
+                    Comments = post.Comments.Select(c => new CommentDetailDto
+                    {
+                        Id = c.Id,
+                        UserId = c.UserId,
+                        Text = c.Text,
+                        CreatedAt = c.CreatedAt
+                    }).ToList()
+                });
+            }
 
             return new BaseResponse<IEnumerable<PostDto>>
             {
@@ -52,7 +63,7 @@ namespace BlogManagementSystem.Api.Services
             };
         }
 
-   
+
         public async Task<BaseResponse<IEnumerable<PostDto>>> GetPostsByAuthorAsync(string authorId)
         {
             _logger.LogInformation("Fetching posts for author {AuthorId}", authorId);
@@ -64,23 +75,34 @@ namespace BlogManagementSystem.Api.Services
                     .Where(p => p.AuthorId == authorId)
                     .ToListAsync();
 
-                var dtos = posts.Select(p => new PostDto
+                var dtos = new List<PostDto>();
+                foreach (var post in posts)
                 {
-                    Id = p.Id,
-                    Title = p.Title,
-                    Content = p.Content,
-                    AuthorId = p.AuthorId,
-                    CreatedAt = p.CreatedAt,
-                    VoteCount = p.Votes.Count(v => v.IsUpvote) - p.Votes.Count(v => !v.IsUpvote),
-                    CommentCount = p.Comments.Count,
-                    Comments = p.Comments.Select(c => new CommentDetailDto
+
+                    var userRes = await _userService.GetOwnUserAsync(post.AuthorId);
+                    var author = userRes.Data;
+
+                    dtos.Add(new PostDto
                     {
-                        Id = c.Id,
-                        UserId = c.UserId,
-                        Text = c.Text,
-                        CreatedAt = c.CreatedAt
-                    }).ToList()
-                }).ToList();
+                        Id = post.Id,
+                        Title = post.Title,
+                        Content = post.Content,
+                        AuthorId = post.AuthorId,
+                        AuthorName = $"{author.FirstName} {author.LastName}",
+                        AuthorEmail = author.Email,
+                        CreatedAt = post.CreatedAt,
+                        VoteCount = post.Votes.Count(v => v.IsUpvote) - post.Votes.Count(v => !v.IsUpvote),
+                        CommentCount = post.Comments.Count,
+                        Comments = post.Comments
+                                              .Select(c => new CommentDetailDto
+                                              {
+                                                  Id = c.Id,
+                                                  UserId = c.UserId,
+                                                  Text = c.Text,
+                                                  CreatedAt = c.CreatedAt
+                                              }).ToList()
+                    });
+                }
 
                 return new BaseResponse<IEnumerable<PostDto>>
                 {
@@ -101,12 +123,18 @@ namespace BlogManagementSystem.Api.Services
 
 
 
+
+
         public async Task<BaseResponse<PostDto>> GetPostByIdAsync(int postId)
         {
             _logger.LogInformation("Fetching post {PostId}", postId);
-            var post = await _repo.GetByIdAsync(postId); 
+            var post = await _repo.GetByIdAsync(postId);
             if (post == null)
                 return new BaseResponse<PostDto> { Success = false, Message = "Post not found." };
+
+           
+            var userRes = await _userService.GetOwnUserAsync(post.AuthorId);
+            var author = userRes.Data;
 
             var dto = new PostDto
             {
@@ -114,22 +142,26 @@ namespace BlogManagementSystem.Api.Services
                 Title = post.Title,
                 Content = post.Content,
                 AuthorId = post.AuthorId,
+                AuthorName = $"{author.FirstName} {author.LastName}",
+                AuthorEmail = author.Email,
                 CreatedAt = post.CreatedAt,
-                VoteCount = post.Votes.Count(v => v.IsUpvote),
+                VoteCount = post.Votes.Count(v => v.IsUpvote) - post.Votes.Count(v => !v.IsUpvote),
                 CommentCount = post.Comments.Count,
                 Comments = post.Comments
-                      .Select(c => new CommentDetailDto
-                      {
-                          Id = c.Id,
-                          UserId = c.UserId,
-                          Text = c.Text,
-                          CreatedAt = c.CreatedAt
-                      })
-                      .ToList()
+                                      .Select(c => new CommentDetailDto
+                                      {
+                                          Id = c.Id,
+                                          UserId = c.UserId,
+                                          Text = c.Text,
+                                          CreatedAt = c.CreatedAt
+                                      }).ToList()
             };
 
-
-            return new BaseResponse<PostDto> { Success = true, Data = dto };
+            return new BaseResponse<PostDto>
+            {
+                Success = true,
+                Data = dto
+            };
         }
 
 
