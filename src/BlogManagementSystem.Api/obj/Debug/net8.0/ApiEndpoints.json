@@ -323,6 +323,26 @@
   },
   {
     "ContainingType": "PostsController",
+    "Method": "ViewMyPosts",
+    "RelativePath": "api/Posts/view_my_posts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BlogManagementSystem.Api.DTOs.BaseResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BlogManagementSystem.Api.DTOs.PostDto, BlogManagementSystem.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PostsController",
     "Method": "ViewOwnUserDetails",
     "RelativePath": "api/Posts/view_own_userdetails",
     "HttpMethod": "GET",

@@ -12,5 +12,7 @@ namespace BlogManagementSystem.Api.Repositories
         Task UpdateAsync(Post post);
         Task DeleteAsync(Post post);
         Task SaveChangesAsync();
+
+        IQueryable<Post> Query();
     }
 }

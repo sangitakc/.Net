@@ -1,0 +1,15 @@
+2025-07-24 22:22:11.711 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 46.0274 ms
+2025-07-24 22:45:45.059 +05:45 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 65.5456 ms
+2025-07-24 22:46:25.587 +05:45 [INF] HTTP POST /api/Auth/register responded 200 in 2071.2022 ms
+2025-07-24 22:46:48.637 +05:45 [INF] HTTP POST /api/Auth/login responded 200 in 286.2582 ms
+2025-07-24 22:47:27.580 +05:45 [INF] Creating post for UserId=1afbdcd5-57b0-4c18-b260-1dee6da33b16
+2025-07-24 22:47:27.637 +05:45 [INF] Created post 1
+2025-07-24 22:47:27.650 +05:45 [INF] HTTP POST /api/Posts/create_own_post responded 200 in 143.4006 ms
+2025-07-24 22:47:42.689 +05:45 [INF] UserId=1afbdcd5-57b0-4c18-b260-1dee6da33b16 upvoting PostId=1
+2025-07-24 22:47:42.761 +05:45 [INF] Upvoted post 1
+2025-07-24 22:47:42.763 +05:45 [INF] HTTP POST /api/Posts/upvote_post/1 responded 200 in 91.8835 ms
+2025-07-24 22:47:59.953 +05:45 [INF] UserId=1afbdcd5-57b0-4c18-b260-1dee6da33b16 commenting on PostId=1
+2025-07-24 22:47:59.967 +05:45 [INF] Comment added to PostId=1
+2025-07-24 22:47:59.967 +05:45 [INF] HTTP POST /api/Posts/comment responded 200 in 34.3322 ms
+2025-07-24 22:48:51.145 +05:45 [INF] Fetching posts for author 1afbdcd5-57b0-4c18-b260-1dee6da33b16
+2025-07-24 22:48:51.173 +05:45 [INF] HTTP GET /api/Posts/view_my_posts responded 200 in 48.1128 ms

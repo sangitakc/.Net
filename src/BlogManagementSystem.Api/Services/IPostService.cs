@@ -1,7 +1,8 @@
 // IPostService.cs
+using BlogManagementSystem.Api.DTOs;
+using BlogManagementSystem.Api.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BlogManagementSystem.Api.DTOs;
 
 namespace BlogManagementSystem.Api.Services
 {
@@ -15,5 +16,7 @@ namespace BlogManagementSystem.Api.Services
         Task<BaseResponse<object>> UpvoteAsync(string userId, int postId);
         Task<BaseResponse<object>> DownvoteAsync(string userId, int postId);
         Task<BaseResponse<object>> CommentAsync(string userId, CommentDto dto);
+        Task<BaseResponse<IEnumerable<PostDto>>> GetPostsByAuthorAsync(string authorId);
+
     }
 }

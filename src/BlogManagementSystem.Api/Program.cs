@@ -13,19 +13,19 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1) Serilog
+
 builder.Host.UseSerilog((ctx, lc) => lc.ReadFrom.Configuration(ctx.Configuration));
 
-// 2) EF Core In-Memory
+
 builder.Services.AddDbContext<AppDbContext>(opts =>
     opts.UseInMemoryDatabase("BlogDb"));
 
-// 3) Identity
+
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
 
-// 4) JWT Authentication
+
 var jwt = builder.Configuration.GetSection("Jwt");
 builder.Services.AddAuthentication(options =>
 {
@@ -49,11 +49,10 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
-// 5) Authorization & Controllers
 builder.Services.AddAuthorization();
 builder.Services.AddControllers();
 
-// 6) Swagger + JWT Authorize lock
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
@@ -86,7 +85,7 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IAdminService, AdminService>();
 
-// 8) CORS Policy
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngularApp", policy =>
@@ -100,13 +99,12 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// 9) Seed Roles & Admin
 using var scope = app.Services.CreateScope();
 var roleMgr = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 var userMgr = scope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
 await SeedData.InitializeAsync(roleMgr, userMgr);
 
-// 10) Middleware pipeline
+
 app.UseSerilogRequestLogging();
 app.UseMiddleware<GlobalExceptionHandler>();
 

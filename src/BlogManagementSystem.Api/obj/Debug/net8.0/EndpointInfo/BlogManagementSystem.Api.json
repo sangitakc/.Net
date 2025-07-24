@@ -606,6 +606,35 @@
           }
         }
       }
+    },
+    "/api/Posts/view_my_posts": {
+      "get": {
+        "tags": [
+          "Posts"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PostDtoIEnumerableBaseResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PostDtoIEnumerableBaseResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PostDtoIEnumerableBaseResponse"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {

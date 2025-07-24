@@ -25,6 +25,7 @@ public class PostsController : ControllerBase
         return res.Success ? Ok(res) : BadRequest(res);
     }
 
+
     [HttpGet("view_post/{id}"), Authorize(Roles = "Author,Admin")]
     public async Task<ActionResult<BaseResponse<PostDto>>> ViewPost(int id)
     {
@@ -96,6 +97,26 @@ public class PostsController : ControllerBase
         var userId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
         var response = await _userService.UpdateOwnUserAsync(userId, dto);
         return response.Success ? Ok(response) : BadRequest(response);
+    }
+
+
+    [HttpGet("view_my_posts"), Authorize(Roles = "Author")]
+    public async Task<ActionResult<BaseResponse<IEnumerable<PostDto>>>> ViewMyPosts()
+    {
+        var userId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
+        if (string.IsNullOrEmpty(userId))
+        {
+            return Unauthorized(new BaseResponse<IEnumerable<PostDto>>
+            {
+                Success = false,
+                Message = "User is not authenticated."
+            });
+        }
+
+        var response = await _postService.GetPostsByAuthorAsync(userId);
+        return response.Success
+            ? Ok(response)
+            : BadRequest(response);
     }
 
 }

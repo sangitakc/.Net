@@ -29,6 +29,14 @@ namespace BlogManagementSystem.Api.Repositories
             return Task.CompletedTask;
         }
 
+        public IQueryable<Post> Query()
+        {
+           
+            return _context.Posts.AsNoTracking()
+                       .Include(p => p.Comments)
+                       .Include(p => p.Votes);
+        }
+
         public Task DeleteAsync(Post post)
         {
             _context.Posts.Remove(post);

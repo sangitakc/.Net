@@ -1,11 +1,12 @@
+using BlogManagementSystem.Api.DTOs;
+using BlogManagementSystem.Api.Models;
+using BlogManagementSystem.Api.Repositories;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BlogManagementSystem.Api.DTOs;
-using BlogManagementSystem.Api.Models;
-using BlogManagementSystem.Api.Repositories;
-using Microsoft.Extensions.Logging;
 
 namespace BlogManagementSystem.Api.Services
 {
@@ -50,6 +51,54 @@ namespace BlogManagementSystem.Api.Services
                 Data = dtos
             };
         }
+
+   
+        public async Task<BaseResponse<IEnumerable<PostDto>>> GetPostsByAuthorAsync(string authorId)
+        {
+            _logger.LogInformation("Fetching posts for author {AuthorId}", authorId);
+
+            try
+            {
+                var posts = await _repo
+                    .Query()
+                    .Where(p => p.AuthorId == authorId)
+                    .ToListAsync();
+
+                var dtos = posts.Select(p => new PostDto
+                {
+                    Id = p.Id,
+                    Title = p.Title,
+                    Content = p.Content,
+                    AuthorId = p.AuthorId,
+                    CreatedAt = p.CreatedAt,
+                    VoteCount = p.Votes.Count(v => v.IsUpvote) - p.Votes.Count(v => !v.IsUpvote),
+                    CommentCount = p.Comments.Count,
+                    Comments = p.Comments.Select(c => new CommentDetailDto
+                    {
+                        Id = c.Id,
+                        UserId = c.UserId,
+                        Text = c.Text,
+                        CreatedAt = c.CreatedAt
+                    }).ToList()
+                }).ToList();
+
+                return new BaseResponse<IEnumerable<PostDto>>
+                {
+                    Success = true,
+                    Data = dtos
+                };
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error fetching posts for author {AuthorId}", authorId);
+                return new BaseResponse<IEnumerable<PostDto>>
+                {
+                    Success = false,
+                    Message = "An error occurred while retrieving your posts."
+                };
+            }
+        }
+
 
 
         public async Task<BaseResponse<PostDto>> GetPostByIdAsync(int postId)
